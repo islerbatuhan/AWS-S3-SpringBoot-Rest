@@ -1,0 +1,7 @@
+springboot\s3rest\controller\DeleteFileController.class
+springboot\s3rest\services\S3Services.class
+springboot\s3rest\config\S3Config.class
+springboot\s3rest\SpringBootStarter.class
+springboot\s3rest\services\implementation\S3ServicesImplementation.class
+springboot\s3rest\controller\UploadFileController.class
+springboot\s3rest\controller\DownloadFileController.class
